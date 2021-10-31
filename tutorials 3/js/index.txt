@@ -1,0 +1,11 @@
+function declarations can be called before they are defined in the code
+
+arrow then what we want to return
+
+return statement immidiately exits the function
+
+function expression are stored in a variable
+
+( ) to call the function with arguments(actual values)
+
+function attached to an object is a method

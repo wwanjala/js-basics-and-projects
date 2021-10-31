@@ -1,0 +1,28 @@
+1 const is imutable ie its value cannot be changed.
+    use let if the variable will change in future
+    Avoid use of "var" to declare variables
+
+    "learning is not linear"
+
+    OPERATORS
+mdn (Mozilla developer network)
+maths operators executed before comparison operators
+maths executed from left to right
+
+type conversion(manually from one type to another) and cohesion
+
+plus operator all numbers are converted to a string
+
+falsey values
+0, ''/ undefined,null, NaN (will be converted to false)
+any String that is not empty is a truthy value
+
+==== strict equality perator(should be equal exactly)
+== loose equality operator
+Avoid loose equality operator to avoid bugs
+
+an expression is a piece of code that produces a value eg 3 + 2
+true && false && !false
+a statement is a bigger piece of code which does not produce a value itselself
+
+if it ends with ";" it is a statement

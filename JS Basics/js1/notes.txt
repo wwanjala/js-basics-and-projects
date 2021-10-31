@@ -1,0 +1,43 @@
+VARIABLE RULES
+
+//Cannot be a reserved keyword
+//Should be meaningful
+//Cannot start with a number 
+//Cannot contain a space or hyphen(-)
+//are case-sensitive
+//The default value is "undefined"
+
+1.Primitives
+
+>String
+>number
+>Boolean
+>Undefined
+>null
+
+2.Reference Types
+
+//>Objects
+//>Arrays
+//>
+
+//Date formats
+//ISO Date: 2021-04-19
+//short Date:19/04/2021
+//long Date: Apr 19 2021
+
+//get Date methods
+//getFullYear()
+//getMonth
+//getDate()
+//getHours()
+//getMinute()
+//getSeconds()
+//gettime()
+//getDay()
+//getdate()
+//Date.now()
+
+//Maths
+// let v  = math.PI;
+// console.log(v);
